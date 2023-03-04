@@ -1,2 +1,3 @@
 this is new file
 this is our new line
+the third line is
